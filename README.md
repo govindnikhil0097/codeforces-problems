@@ -6,57 +6,94 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 4 |
+| 22 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
-- [implementation](#implementation) (10)
-- [math](#math) (3)
-- [strings](#strings) (4)
+- [*special](#special) (1)
+- [brute force](#brute-force) (5)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (16)
+- [math](#math) (4)
+- [sortings](#sortings) (1)
+- [strings](#strings) (8)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
-| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/231/A%20-%20Team/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.txt) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/231/A%20-%20Team/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/41/A%20-%20Translation/solution.txt) |
-| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/59/A%20-%20Word/solution.txt) |
-| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.txt) |
-| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
-| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
-| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
-| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.txt) |
-| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
-| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
-| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/41/A%20-%20Translation/solution.txt) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/59/A%20-%20Word/solution.txt) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.txt) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.txt) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
-| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
-| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/41/A%20-%20Translation/solution.txt) |
-| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/59/A%20-%20Word/solution.txt) |
-| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
-| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/ICPC-preparation/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/41/A%20-%20Translation/solution.txt) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/59/A%20-%20Word/solution.txt) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
 
 ---
 
