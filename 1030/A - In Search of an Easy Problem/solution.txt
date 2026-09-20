@@ -1,0 +1,17 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    cases = int(l[0])
+    numbers = [str(x) for x in l[1:]]
+ 
+    if '1' in numbers:
+        print("HARD")
+    else:
+        print("EASY")
+ 
+       
+ 
+if __name__ == "__main__":
+    func()
