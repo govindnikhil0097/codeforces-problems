@@ -1,0 +1,12 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    c = int(l[0])
+    others = [int(x) for x in l[1:]]
+    add = sum(others)
+    print(f"{add/c:.12f}")
+ 
+if __name__ == "__main__":
+    func()
