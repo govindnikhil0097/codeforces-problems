@@ -1,0 +1,16 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    cases = int(l[0])
+    numbers = [str(x) for x in l[1:]]
+    g1 = 1
+    for i in range(len(numbers)-1):
+        if numbers[i] != numbers[i+1]:
+            g1 += 1
+    print(g1)
+ 
+if __name__ == "__main__":
+    func() 
+ 
