@@ -1,0 +1,19 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    cases = int(l[0])
+    index = 0
+    numbers = [int(x) for x in l[1:]]
+    for i in range(cases):
+        a, b = int(numbers[index]), int(numbers[index+1])
+        index += 2
+        remainder = a%b
+        if remainder == 0:
+            print(0)
+        else:
+            print(b-remainder)
+ 
+if __name__ == "__main__":
+    func()
