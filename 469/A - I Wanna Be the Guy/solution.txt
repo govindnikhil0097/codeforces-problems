@@ -1,0 +1,18 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    cases = int(l[0])
+    xCase = int(l[1])
+    xNums = l[2: xCase + 2] 
+ 
+    yCase = int(l[xCase + 2])
+    yNums = l[xCase + 2 + 1:]
+    listPassed = set(xNums + yNums)
+    if len(listPassed) == cases:
+        print("I become the guy.")
+    else:
+        print("Oh, my keyboard!")
+if __name__ == "__main__":
+    func()
