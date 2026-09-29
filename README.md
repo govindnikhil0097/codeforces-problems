@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 7 |
+| 28 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (5)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (20)
-- [math](#math) (6)
+- [implementation](#implementation) (21)
+- [math](#math) (7)
 - [sortings](#sortings) (1)
-- [strings](#strings) (8)
+- [strings](#strings) (9)
 
 ---
 
@@ -64,6 +64,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.txt) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.txt) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
@@ -81,6 +82,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
 
 ### sortings
 
@@ -99,6 +101,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
 
 ---
