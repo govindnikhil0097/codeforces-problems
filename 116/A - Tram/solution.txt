@@ -1,0 +1,12 @@
+x = int(input())
+max = 0
+currentPas = 0
+ 
+for i in range(x):
+    a, b = map(int, input().split())
+    currentPas -= a
+    currentPas += b
+    if currentPas > max:
+        max = currentPas
+ 
+print(max)
