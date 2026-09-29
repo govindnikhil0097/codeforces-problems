@@ -1,0 +1,21 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    wordLen = int(l[0])
+    word = l[1].lower()
+    alphabets = "abcdefghijklmnopqrstuvwxyz"
+    isPangram = True
+    for x in alphabets:
+        if x not in word:
+            isPangram = False
+            break
+ 
+    if isPangram:
+        print("YES")
+    else:
+        print("NO")
+ 
+if __name__ == "__main__":
+    func()
