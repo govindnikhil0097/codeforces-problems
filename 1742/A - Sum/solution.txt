@@ -1,0 +1,9 @@
+cases = int(input())
+for i in range(cases):
+    l = list(map(int, input().split()))
+    l.sort()
+    a, b, c = l[0], l[1], l[2]
+    if (a+b) == c:
+        print("YES")
+    else:
+        print("NO")
