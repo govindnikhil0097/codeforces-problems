@@ -1,0 +1,24 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    cases = int(l[0])
+    numbers = [int(x) for x in l[1:]]
+    totalSwaps = 0
+    highestIndex = numbers.index(max(numbers))
+    totalSwaps += highestIndex
+ 
+    tallestSoldier = numbers.pop(highestIndex)
+    numbers.insert(0, tallestSoldier)
+    minVal = min(numbers)
+    smallestIndex = 0
+    for i in range(len(numbers)):
+        if numbers[i] == minVal:
+            smallestIndex = i
+ 
+    totalSwaps += (len(numbers) - 1) - smallestIndex
+    print(totalSwaps)
+ 
+if __name__ == "__main__":
+    func()
