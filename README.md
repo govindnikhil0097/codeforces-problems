@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 9 |
+| 36 | 9 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (26)
-- [math](#math) (7)
+- [implementation](#implementation) (28)
+- [math](#math) (8)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
 
@@ -92,6 +92,8 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.txt) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.txt) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1742/A%20-%20Sum/solution.txt) |
 
 ### math
 
@@ -104,6 +106,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.txt) |
 
 ### sortings
 
