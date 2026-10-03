@@ -1,0 +1,24 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    results = []
+    t = int(l[0])
+    for i in range(1, t+1):
+        numStr = l[i]
+        length = len(numStr)
+        roundNums = []
+        for j in range(length):
+            digit = numStr[j]
+            if digit != '0':
+                zeroes = (length - 1) - j
+                roundNums.append(digit + ('0'*zeroes))
+        results.append(str(len(roundNums)))
+        results.append(" ".join(roundNums))
+    print('
+'.join(results))
+ 
+    
+if __name__ == "__main__":
+    func()
