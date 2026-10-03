@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 9 |
+| 37 | 9 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (28)
-- [math](#math) (8)
+- [math](#math) (9)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
 
@@ -106,6 +106,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.txt) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.txt) |
 
 ### sortings
