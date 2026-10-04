@@ -1,0 +1,26 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    t = int(l[0])
+    home_colors = []
+    away_colors = []
+    idx = 1
+    for i in range(t):
+        h = int(l[idx])
+        a = int(l[idx+1])
+        home_colors.append(h)
+        away_colors.append(a)
+        idx += 2
+ 
+    conflicts = 0
+    for host in range(t):
+        for guest in range(t):
+            if host != guest:
+                if home_colors[host] == away_colors[guest]:
+                    conflicts += 1
+    print(conflicts)
+ 
+if __name__ == "__main__":
+    func()
