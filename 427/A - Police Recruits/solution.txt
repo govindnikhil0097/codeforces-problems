@@ -1,0 +1,23 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    t = int(l[0])
+    newOfficers = 0
+    crime = 0
+    for i in range(1, t+1):
+        event = int(l[i])
+        if event > 0:  
+            newOfficers += event
+        else:
+            if newOfficers > 0:
+                newOfficers -= 1
+            else:
+                crime += 1
+    print(crime)
+ 
+ 
+ 
+if __name__ == "__main__":
+    func()
