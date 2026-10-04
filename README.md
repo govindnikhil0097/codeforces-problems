@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 9 |
+| 39 | 11 |
 
 ---
 
@@ -16,9 +16,11 @@
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (28)
-- [math](#math) (9)
+- [math](#math) (10)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
 
@@ -52,6 +54,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.txt) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
 
 ### greedy
 
@@ -109,6 +117,13 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.txt) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.txt) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.txt) |
 
 ### sortings
 
