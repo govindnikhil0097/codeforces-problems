@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 11 |
+| 43 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (31)
+- [implementation](#implementation) (32)
 - [math](#math) (11)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
@@ -92,6 +92,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/427/A%20-%20Police%20Recruits/solution.txt) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.txt) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.txt) |
