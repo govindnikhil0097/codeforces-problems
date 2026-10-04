@@ -1,0 +1,16 @@
+import sys
+def func():
+    l = sys.stdin.read().split()
+    if not l:
+        return
+    guest = l[0]
+    residenceHost = l[1]
+    combined = guest + residenceHost
+    frontDoor = l[2]
+    if sorted(combined) == sorted(frontDoor):
+        print('YES')
+    else:
+        print('NO')
+ 
+if __name__ == "__main__":
+    func()
