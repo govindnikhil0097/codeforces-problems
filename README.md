@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 11 |
+| 44 | 11 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (32)
 - [math](#math) (11)
 - [number theory](#number-theory) (1)
@@ -71,6 +71,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.txt) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.txt) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.txt) |
 
 ### implementation
 
