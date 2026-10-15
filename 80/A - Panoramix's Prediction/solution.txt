@@ -1,0 +1,19 @@
+def isPrime(k):
+    for i in range(2, int(k**0.5)+1):
+        if k % i == 0:
+            return False
+    return True
+ 
+def main():
+    n, m = map(int, input().split())
+    next_prime = n+1
+    while not isPrime(next_prime):
+        next_prime += 1
+ 
+    if next_prime == m:
+        print('YES')
+    else:
+        print('NO')
+ 
+if __name__ == "__main__":
+    main()
