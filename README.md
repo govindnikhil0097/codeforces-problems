@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 11 |
+| 46 | 11 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (32)
+- [implementation](#implementation) (33)
 - [math](#math) (11)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
-- [strings](#strings) (11)
+- [strings](#strings) (12)
 
 ---
 
@@ -110,6 +110,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1742/A%20-%20Sum/solution.txt) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 
 ### math
 
@@ -156,6 +157,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 
 ---
 
