@@ -1,0 +1,8 @@
+t = int(input())
+word = 'codeforces'
+for i in range(t):
+    alpha = input()
+    if alpha in word:
+        print('YES')
+    else:
+        print('NO')
