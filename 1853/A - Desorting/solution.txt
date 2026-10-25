@@ -1,0 +1,18 @@
+def func():
+    t = int(input())
+    for i in range(t):
+        lenA = int(input())
+        a = list(map(int, input().split()))
+        record = float('inf')
+        for i in range(lenA-1):
+            if a[i] > a[i+1]:
+                record = 0
+                break
+            diff = a[i+1] - a[i]
+            current = (diff//2) + 1
+            if current < record:
+                record = current
+        print(record)
+ 
+if __name__ == "__main__":
+    func()
