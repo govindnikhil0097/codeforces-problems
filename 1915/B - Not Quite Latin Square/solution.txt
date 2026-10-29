@@ -1,0 +1,8 @@
+t = int(input())
+for i in range(t):
+    matrix = [list(input()) for _ in range(3)]
+    l = ['A', 'B', 'C']
+    for j in range(3):
+        for x in l:
+            if x not in matrix[j]:
+                print(x)
