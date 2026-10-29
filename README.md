@@ -6,19 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 11 |
+| 49 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (10)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (34)
+- [implementation](#implementation) (35)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
@@ -31,6 +32,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915B | [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1915/B%20-%20Not%20Quite%20Latin%20Square/solution.txt) |
 
 ### brute force
 
@@ -46,6 +53,7 @@
 | 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1853/A%20-%20Desorting/solution.txt) |
+| 1915B | [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1915/B%20-%20Not%20Quite%20Latin%20Square/solution.txt) |
 
 ### constructive algorithms
 
@@ -115,6 +123,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1742/A%20-%20Sum/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
+| 1915B | [Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | 800 | [PyPy 3-64](https://github.com/govindnikhil0097/codeforces-problems/blob/HEAD/1915/B%20-%20Not%20Quite%20Latin%20Square/solution.txt) |
 
 ### math
 
