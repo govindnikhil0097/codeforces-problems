@@ -1,0 +1,12 @@
+t = int(input())
+for i in range(t):
+    a, b, c = map(int, input().split())
+    l1 = list(map(int, input().split()))
+    l2 = list(map(int, input().split()))
+    #sum of a and b does <= c
+    count = 0
+    for i in l1:
+        for j in l2:
+            if i + j <= c:
+                count += 1
+    print(count)
