@@ -1,0 +1,9 @@
+t = int(input())
+for i in range(t):
+    a, b = map(int, input().split())
+    s = input().strip()
+    s1 =  input().strip()
+    if sorted(s) == sorted(s1+'six'):
+        print('YES')
+    else:
+        print('NO')
