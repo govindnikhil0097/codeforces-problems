@@ -1,0 +1,10 @@
+t = int(input())
+for i in range(t):
+    n = int(input())
+    s = input()
+    l = list(s)
+    left, right = 0, len(l)-1
+    while left < right and l[left] != l[right]:
+        left += 1
+        right -= 1
+    print(right - left+1)
