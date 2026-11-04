@@ -1,0 +1,14 @@
+t = int(input())
+for i in range(t):
+    length = int(input())
+    l = list(map(int,input().split()))
+    left, right = 0, length - 1
+    a=[]
+    while left <= right:
+        a.append(l[left])
+        left += 1
+        if left <= right:
+            a.append(l[right])
+            right -= 1
+ 
+    print(*a)
